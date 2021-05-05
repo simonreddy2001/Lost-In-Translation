@@ -1,0 +1,36 @@
+.loginForm {
+    display: flex;
+    height: 7vh;
+    justify-content: space-around;
+    align-items: center;
+    border: 1px solid rgb(224, 224, 224);
+    border-radius: 20px;
+    padding-right: 1%;
+}
+
+.keyboard-icon {
+    height: 5vh;
+    padding-right: 3%;
+}
+
+.form {
+    display: flex;
+}
+
+.loginButton {
+    background-color: white;
+    display: flex;
+    height: 5vh;
+    align-items: center;
+    cursor: pointer;
+}
+
+.loginButton img {
+    height: 5vh;
+}
+
+input {
+    height: 5vh;
+    padding-left: 4%;
+    border: 0;
+}
